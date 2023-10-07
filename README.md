@@ -1,6 +1,6 @@
 # Unlocking HR Insights at MeriSKILL 🌟
 
-Greetings, LinkedIn Community! 🚀 I'm excited to share pivotal discoveries from my HR analytics internship at MeriSKILL. Our quest for insights into workforce dynamics has yielded fascinating revelations. Let's embark on this journey together.
+Greetings, GitHub Community! 🚀 I'm excited to share pivotal discoveries from my HR analytics internship at MeriSKILL. Our quest for insights into workforce dynamics has yielded fascinating revelations. Let's embark on this journey together.
 
 ## Demographic Analysis:
 
